@@ -1,4 +1,4 @@
-# Documentacao do sistema para a versao 8.10
+# Documentacao do sistema para a versao 9.0
 
 Este documento e uma visao geral em andamento do sistema CoC7. Ele nao e um tutorial completo de FoundryVTT.
 
@@ -18,27 +18,8 @@ Esta documentacao pode ser reaberta em Configuracoes de Jogo -> Ajuda e Document
 
 Para a lista completa, consulte o [changelog](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/blob/develop/.github/CHANGELOG.md) no GitHub.
 
-- [Efeitos ativos](effects.md) - adiciona formula de recuperacao de Sorte, cura natural, dados/valores de bonus para testes de Saber, Ideia e curingas baseados em ajustes de CoC ID.
-- Adicionados botoes de testes de Ideia e Saber na Ficha de Investigador v3.
-- Adicionados Efeitos Ativos a itens de Talento.
-
-### Alteracoes da versao 8.1 ate 8.9
-
-- [Feiticos](item_spell.md) voltam a deduzir custos automaticamente do conjurador.
-- Permite reordenar caracteristicas nas regras opcionais.
-- Migracao para implementacoes FoundryVTT de dataModels, AppV2 e Tooltips.
-- Aciona o seletor de ator quando o usuario possui varios atores ao interagir com mensagem de chat.
-- Move game.system.api.cocid para game.CoC7.cocid.
-- Adiciona botao de ping de localizacao ao item de Perseguicao.
-- Move progresso de livros e feiticos aprendidos para o Ator.
-- Move i.skill.fighting-throw, i.skill.firearms-throw e i.skill.ranged-throw para Arremessar (i.skill.throw).
-- Permite ligar ou desligar estilos de diario CoC7 nas paginas de configuracao.
-- Permite alternar o painel de notas de PNJ.
-- Rolagens podem ser atribuidas pelo Guardiao como dano/cura a caracteristicas, atributos ou pericias.
-- Rolagens d100 foram movidas para uma nova classe de pool de dados.
-- Opcoes de CSS customizado e arte da ficha foram movidas para configuracoes de jogo.
-- Adiciona configuracao para usar icones de eras em vez de texto.
-- Adiciona regra opcional para permitir Forcar desastres.
+- Esta versão não é compatível com o Foundry VTT v12.
+- O CSS foi reformulado para aplicar estilos consistentes em todas as janelas do Foundry VTT.
 
 # Modulos Chaosium
 
@@ -47,6 +28,8 @@ Para a lista completa, consulte o [changelog](https://github.com/Miskatonic-Inve
 - [Call of Cthulhu - FoundryVTT - Investigator Wizard](https://foundryvtt.com/packages/call-of-cthulhu-foundryvtt-investigator-wizard)
 - [Call of Cthulhu - Core Content](https://foundryvtt.com/packages/cha-coc-fvtt-en-keeperitems)
 - [Call of Cthulhu - No Time To Scream](https://foundryvtt.com/packages/cha-coc-fvtt-en-notimetoscream)
+- [Call of Cthulhu - The Order of the Stone](https://foundryvtt.com/packages/cha-coc-fvtt-en-theorderofthestone) - Uma campanha em três partes.
+- [Call of Cthulhu - Arkham](https://foundryvtt.com/packages/cha-coc-fvtt-en-arkham) - Um guia completo para o cenário de Arkham, lar da Universidade Miskatonic e palco de histórias de crimes, sociedades clandestinas e do Mythos de Cthulhu.
 
 # Secoes gerais
 

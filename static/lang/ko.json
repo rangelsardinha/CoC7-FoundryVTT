@@ -1535,16 +1535,6 @@
 
   "CoC7.AlternativeNames": "다른 이름들",
 
-  "TOKEN.MOVEMENT.ACTIONS.walk.label": "걷기",
-  "TOKEN.MOVEMENT.ACTIONS.fly.label": "날기",
-  "TOKEN.MOVEMENT.ACTIONS.swim.label": "헤엄치기",
-  "TOKEN.MOVEMENT.ACTIONS.burrow.label": "굴 파기",
-  "TOKEN.MOVEMENT.ACTIONS.crawl.label": "기어다니기",
-  "TOKEN.MOVEMENT.ACTIONS.climb.label": "오르기",
-  "TOKEN.MOVEMENT.ACTIONS.jump.label": "점프",
-  "TOKEN.MOVEMENT.ACTIONS.blink.label": "순간이동 (점멸)",
-  "TOKEN.MOVEMENT.ACTIONS.displace.label": "순간이동 (이동)",
-
   "CoC7.PortraitOptions": "초상화 옵션",
   "CoC7.WhatCopiedClipboard": "“{what}”이(가) 클립보드에 복사되었습니다.",
   "CoC7.AddedEmbeddedItems": "{names}를 추가했습니다.",

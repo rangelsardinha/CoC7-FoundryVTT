@@ -1,7 +1,7 @@
 _id: 'KgyqcEJZZztYfpEr'
 name: 'Capanga'
 type: 'npc'
-img: 'systems/CoC7/assets/icons/cultist.svg'
+img: 'systems/CoC7/assets/game-icons/lorc/cultist.svg'
 system:
   characteristics:
     str:
@@ -41,7 +41,7 @@ system:
     displayFormula: false
 prototypeToken:
   texture:
-    src: systems/CoC7/assets/icons/cultist.svg
+    src: systems/CoC7/assets/game-icons/lorc/cultist.svg
 items:
   - name: 'Ordens'
     type: 'item'
@@ -53,7 +53,7 @@ items:
     _id: '3GYcAo139cyCy9fA'
   - name: 'Ser um incômodo'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     _id: 'PSkJAIU89V7wn2Bb'
     system:
       base: '0'
@@ -65,7 +65,7 @@ items:
         push: true
   - name: 'Esquivar'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/dodge.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/dodging.svg'
     _id: 'AvGHgRlHt0R3Ed4S'
     system:
       description:
@@ -83,7 +83,7 @@ items:
           priority: 0
   - name: 'Lutar (Briga)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/fighting_brawl.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/mailed-fist.svg'
     _id: 'PR4ptRvBvRso7GLJ'
     system:
       description:
@@ -105,7 +105,7 @@ items:
           priority: 0
   - name: 'Armas de Fogo (Rifles/Escopetas)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg'
+    img: 'systems/CoC7/assets/game-icons/skoll/winchester-rifle.svg'
     _id: '3fVH7wgc0f7cYPS6'
     system:
       description:
@@ -127,7 +127,7 @@ items:
           priority: 0
   - name: 'Outra Língua (Inglês)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/language.svg'
+    img: 'systems/CoC7/assets/game-icons/skoll/talk.svg'
     _id: 'aHoy9l8GnDaUZOYW'
     system:
       description:
@@ -150,7 +150,7 @@ items:
           priority: 0
   - name: 'Receber ordens'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     _id: 'uPgX46VUlJXStTpn'
     system:
       base: '0'
@@ -162,7 +162,7 @@ items:
         push: true
   - name: 'Esforçar-se'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     _id: 'UoYy6krp3cyOCqSk'
     system:
       base: '0'
@@ -196,7 +196,7 @@ items:
     _id: 'Jlewd3ifpDQ8VBuI'
   - name: 'Soco'
     type: 'weapon'
-    img: 'systems/CoC7/assets/icons/skills/fighting_brawl.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/mailed-fist.svg'
     system:
       skill:
         main:
@@ -245,7 +245,7 @@ flags:
 ---
 name: 'Exemplo de Vilão'
 type: 'npc'
-img: 'systems/CoC7/assets/icons/cultist.svg'
+img: 'systems/CoC7/assets/game-icons/lorc/cultist.svg'
 system:
   characteristics:
     str:
@@ -294,7 +294,7 @@ system:
     displayFormula: false
 prototypeToken:
   texture:
-    src: 'systems/CoC7/assets/icons/cultist.svg'
+    src: 'systems/CoC7/assets/game-icons/lorc/cultist.svg'
 items:
   - name: 'Capanga muito cruel'
     type: 'item'
@@ -318,7 +318,7 @@ items:
     _id: '8g01NwyUAwvTHb3E'
   - name: 'Gritar ordens'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     flags:
       CoC7:
         cocidFlag:
@@ -335,7 +335,7 @@ items:
         push: true
   - name: 'Ser um incômodo'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     flags:
       CoC7:
         cocidFlag:
@@ -352,7 +352,7 @@ items:
         push: true
   - name: 'Esquivar'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/dodge.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/dodging.svg'
     _id: 'AvGHgRlHt0R3Ed4S'
     system:
       description:
@@ -370,7 +370,7 @@ items:
           priority: 0
   - name: 'Lutar (Briga)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/fighting_brawl.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/mailed-fist.svg'
     _id: 'PR4ptRvBvRso7GLJ'
     system:
       description:
@@ -392,7 +392,7 @@ items:
           priority: 0
   - name: 'Armas de Fogo (Rifles/Escopetas)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg'
+    img: 'systems/CoC7/assets/game-icons/skoll/winchester-rifle.svg'
     _id: '3fVH7wgc0f7cYPS6'
     system:
       description:
@@ -414,7 +414,7 @@ items:
           priority: 0
   - name: 'Outra Língua (Inglês)'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills/language.svg'
+    img: 'systems/CoC7/assets/game-icons/skoll/talk.svg'
     _id: 'aHoy9l8GnDaUZOYW'
     system:
       description:
@@ -437,7 +437,7 @@ items:
           priority: 0
   - name: 'Dominar o mundo'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     _id: 'qPH6Yf5B82vN4RHu'
     system:
       adjustments:
@@ -452,7 +452,7 @@ items:
           priority: 0
   - name: 'Atormentar o PJ'
     type: 'skill'
-    img: 'systems/CoC7/assets/icons/skills.svg'
+    img: 'systems/CoC7/assets/game-icons/delapouite/skills.svg'
     _id: 'CxqOOhOKLcEi2hRQ'
     system:
       adjustments:
@@ -469,7 +469,7 @@ items:
           priority: 0
   - name: 'Soco'
     type: 'weapon'
-    img: 'systems/CoC7/assets/icons/skills/fighting_brawl.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/mailed-fist.svg'
     system:
       skill:
         main:
@@ -583,7 +583,7 @@ items:
   - _id: UOuN0gESXPp2HXwH
     name: Contabilidade
     type: skill
-    img: systems/CoC7/assets/icons/skills/accounting.svg
+    img: systems/CoC7/assets/game-icons/delapouite/money-stack.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -603,7 +603,7 @@ items:
   - _id: ovIp66Luwfwbq28F
     name: Antropologia
     type: skill
-    img: systems/CoC7/assets/icons/skills/anthropology.svg
+    img: systems/CoC7/assets/game-icons/delapouite/human-pyramid.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -623,7 +623,7 @@ items:
   - _id: wOs3gryeGRPkGoWD
     name: Avaliação
     type: skill
-    img: systems/CoC7/assets/icons/skills/appraise.svg
+    img: systems/CoC7/assets/game-icons/delapouite/glass-ball.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -643,7 +643,7 @@ items:
   - _id: GHhkcJUqjcP4lToY
     name: Arqueologia
     type: skill
-    img: systems/CoC7/assets/icons/skills/archaeology.svg
+    img: systems/CoC7/assets/game-icons/delapouite/great-pyramid.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -663,7 +663,7 @@ items:
   - _id: m6V53lyfz7zh95FE
     name: Arte/Ofício (Atuação)
     type: skill
-    img: systems/CoC7/assets/icons/skills/art_craft_acting.svg
+    img: systems/CoC7/assets/game-icons/delapouite/theater-curtains.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -684,7 +684,7 @@ items:
   - _id: JgtxiN3KzooOWIQV
     name: Charme
     type: skill
-    img: systems/CoC7/assets/icons/skills/charm.svg
+    img: systems/CoC7/assets/game-icons/lorc/charm.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -704,7 +704,7 @@ items:
   - _id: oh5eFj00Wohnx1My
     name: Escalar
     type: skill
-    img: systems/CoC7/assets/icons/skills/climb.svg
+    img: systems/CoC7/assets/game-icons/delapouite/mountain-road.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -724,7 +724,7 @@ items:
   - _id: vYrJ5h9cIQBzvw8E
     name: Nível de Crédito
     type: skill
-    img: systems/CoC7/assets/icons/skills/credit_rating.svg
+    img: systems/CoC7/assets/game-icons/delapouite/credits-currency.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -745,7 +745,7 @@ items:
   - _id: WJky66ezt2ef5ksH
     name: Mitos de Cthulhu
     type: skill
-    img: systems/CoC7/assets/icons/skills/cthulhu_mythos.svg
+    img: systems/CoC7/assets/game-icons/delapouite/fish-monster.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -765,7 +765,7 @@ items:
   - _id: gzNPM9gbx0EZffBV
     name: Disfarce
     type: skill
-    img: systems/CoC7/assets/icons/skills/disguise.svg
+    img: systems/CoC7/assets/game-icons/lorc/domino-mask.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -785,7 +785,7 @@ items:
   - _id: wK8XxNj9QwXlGFEb
     name: Esquivar
     type: skill
-    img: systems/CoC7/assets/icons/skills/dodge.svg
+    img: systems/CoC7/assets/game-icons/lorc/dodging.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -803,7 +803,7 @@ items:
   - _id: Og2OWQH93aSDWAMZ
     name: Dirigir Automóveis
     type: skill
-    img: systems/CoC7/assets/icons/skills/drive_auto.svg
+    img: systems/CoC7/assets/game-icons/skoll/race-car.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -823,7 +823,7 @@ items:
   - _id: NBkq8oCGM1FjmsyF
     name: Consertos Elétricos
     type: skill
-    img: systems/CoC7/assets/icons/skills/electrical_repair.svg
+    img: systems/CoC7/assets/game-icons/delapouite/electrical-resistance.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -843,7 +843,7 @@ items:
   - _id: ld78TITwKNFPpanQ
     name: Lábia
     type: skill
-    img: systems/CoC7/assets/icons/skills/fast_talk.svg
+    img: systems/CoC7/assets/game-icons/lorc/back-forth.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -863,7 +863,7 @@ items:
   - _id: vS8bsPWFlwgOecoB
     name: Lutar (Briga)
     type: skill
-    img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+    img: systems/CoC7/assets/game-icons/lorc/mailed-fist.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -885,7 +885,7 @@ items:
   - _id: sWt5Q3ZXd6NlwhXU
     name: Arremessar
     type: skill
-    img: systems/CoC7/assets/icons/skills/fighting_throw.svg
+    img: systems/CoC7/assets/game-icons/delapouite/throwing-ball.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -905,7 +905,7 @@ items:
   - _id: KmDGtn7ukUFVb265
     name: Armas de Fogo (Pistola)
     type: skill
-    img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
+    img: systems/CoC7/assets/game-icons/john-colburn/pistol-gun.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -927,7 +927,7 @@ items:
   - _id: m2pYjKk4Gk3FcEBL
     name: Armas de Fogo (Rifles/Escopetas)
     type: skill
-    img: systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg
+    img: systems/CoC7/assets/game-icons/skoll/winchester-rifle.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -949,7 +949,7 @@ items:
   - _id: nZ8rdL4PLb7A7f5B
     name: Primeiros Socorros
     type: skill
-    img: systems/CoC7/assets/icons/skills/first_aid.svg
+    img: systems/CoC7/assets/game-icons/delapouite/first-aid-kit.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -969,7 +969,7 @@ items:
   - _id: URo2NSSJSNdvOqXU
     name: História
     type: skill
-    img: systems/CoC7/assets/icons/skills/history.svg
+    img: systems/CoC7/assets/game-icons/delapouite/book-pile.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -989,7 +989,7 @@ items:
   - _id: hDr4eUbS398oniTa
     name: Intimidação
     type: skill
-    img: systems/CoC7/assets/icons/skills/intimidate.svg
+    img: systems/CoC7/assets/game-icons/delapouite/tired-eye.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1009,7 +1009,7 @@ items:
   - _id: c5utlFbDM7J8TA8b
     name: Saltar
     type: skill
-    img: systems/CoC7/assets/icons/skills/jump.svg
+    img: systems/CoC7/assets/game-icons/delapouite/jump-across.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1029,7 +1029,7 @@ items:
   - _id: Blk22r9FRJetJ0e8
     name: Outra Língua (Inglês)
     type: skill
-    img: systems/CoC7/assets/icons/skills/language.svg
+    img: systems/CoC7/assets/game-icons/skoll/talk.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1052,7 +1052,7 @@ items:
   - _id: 64hnBZNC8FM7oTkg
     name: Direito
     type: skill
-    img: systems/CoC7/assets/icons/skills/law.svg
+    img: systems/CoC7/assets/game-icons/delapouite/3d-hammer.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1072,7 +1072,7 @@ items:
   - _id: BcWHh8EhmyKj7bNk
     name: Usar Bibliotecas
     type: skill
-    img: systems/CoC7/assets/icons/skills/library_use.svg
+    img: systems/CoC7/assets/game-icons/delapouite/archive-research.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1092,7 +1092,7 @@ items:
   - _id: MoAB0NRNlpEc2qWr
     name: Escutar
     type: skill
-    img: systems/CoC7/assets/icons/skills/listen.svg
+    img: systems/CoC7/assets/game-icons/delapouite/sound-on.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1112,7 +1112,7 @@ items:
   - _id: MRbFH52Zh9TzhLBh
     name: Chaveiro
     type: skill
-    img: systems/CoC7/assets/icons/skills/locksmith.svg
+    img: systems/CoC7/assets/game-icons/delapouite/house-keys.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1132,7 +1132,7 @@ items:
   - _id: 0qCTuRFUCACSEsWj
     name: Consertos Mecânicos
     type: skill
-    img: systems/CoC7/assets/icons/skills/mechanical_repair.svg
+    img: systems/CoC7/assets/game-icons/lorc/mechanical-arm.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1152,7 +1152,7 @@ items:
   - _id: Xmg7oAy70DKpv4kq
     name: Medicina
     type: skill
-    img: systems/CoC7/assets/icons/skills/medicine.svg
+    img: systems/CoC7/assets/game-icons/delapouite/plague-doctor-profile.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1172,7 +1172,7 @@ items:
   - _id: jTcu6Ni2ek7Yz5q3
     name: História Natural
     type: skill
-    img: systems/CoC7/assets/icons/skills/natural_world.svg
+    img: systems/CoC7/assets/game-icons/delapouite/forest.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1192,7 +1192,7 @@ items:
   - _id: 1c3fdvpQtvZf5YXK
     name: Navegação
     type: skill
-    img: systems/CoC7/assets/icons/skills/navigate.svg
+    img: systems/CoC7/assets/game-icons/delapouite/earth-america.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1212,7 +1212,7 @@ items:
   - _id: 6pSfZVS68jSHxa5T
     name: Ocultismo
     type: skill
-    img: systems/CoC7/assets/icons/skills/occult.svg
+    img: systems/CoC7/assets/game-icons/lorc/evil-book.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1232,7 +1232,7 @@ items:
   - _id: cuExWy1130KUwuWz
     name: Operar Maquinário Pesado
     type: skill
-    img: systems/CoC7/assets/icons/skills/operate_heavy_machinery.svg
+    img: systems/CoC7/assets/game-icons/delapouite/melting-metal.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1252,7 +1252,7 @@ items:
   - _id: uMzSNURmZqjxr7mU
     name: Persuasão
     type: skill
-    img: systems/CoC7/assets/icons/skills/persuade.svg
+    img: systems/CoC7/assets/game-icons/lorc/conversation.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1272,7 +1272,7 @@ items:
   - _id: rXBU2GofiO2qOsGv
     name: Psicanálise
     type: skill
-    img: systems/CoC7/assets/icons/skills/psychoanalysis.svg
+    img: systems/CoC7/assets/game-icons/lorc/psychic-waves.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1292,7 +1292,7 @@ items:
   - _id: MFR4eR79niGaLfph
     name: Psicologia
     type: skill
-    img: systems/CoC7/assets/icons/skills/psychology.svg
+    img: systems/CoC7/assets/game-icons/delapouite/all-seeing-eye.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1312,7 +1312,7 @@ items:
   - _id: o7TdzbuSP7ticONf
     name: Cavalgar
     type: skill
-    img: systems/CoC7/assets/icons/skills/ride.svg
+    img: systems/CoC7/assets/game-icons/delapouite/horse-head.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1332,7 +1332,7 @@ items:
   - _id: 8twBT7nbyh5dEp3J
     name: Ciência (Química)
     type: skill
-    img: systems/CoC7/assets/icons/skills/science_chemistry.svg
+    img: systems/CoC7/assets/game-icons/lorc/chemical-drop.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1353,7 +1353,7 @@ items:
   - _id: KKFNX5M4LtEtiuxs
     name: Prestidigitação
     type: skill
-    img: systems/CoC7/assets/icons/skills/sleight_of_hand.svg
+    img: systems/CoC7/assets/game-icons/lorc/hand.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1373,7 +1373,7 @@ items:
   - _id: nHaWNwtW3Lg0sqYJ
     name: Encontrar
     type: skill
-    img: systems/CoC7/assets/icons/skills/spot_hidden.svg
+    img: systems/CoC7/assets/game-icons/lorc/magnifying-glass.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1393,7 +1393,7 @@ items:
   - _id: DcV524K0jNfjDEZC
     name: Furtividade
     type: skill
-    img: systems/CoC7/assets/icons/skills/stealth.svg
+    img: systems/CoC7/assets/game-icons/lorc/hidden.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1413,7 +1413,7 @@ items:
   - _id: 8jAVwbgzWc0zRXGL
     name: Sobrevivência (Deserto)
     type: skill
-    img: systems/CoC7/assets/icons/skills/survival_any.svg
+    img: systems/CoC7/assets/game-icons/lorc/campfire.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1434,7 +1434,7 @@ items:
   - _id: 1zSIeY0eat2AxQok
     name: Natação
     type: skill
-    img: systems/CoC7/assets/icons/skills/swim.svg
+    img: systems/CoC7/assets/game-icons/delapouite/swimfins.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1454,7 +1454,7 @@ items:
   - _id: AcUIbZFhfoXqQP2m
     name: Rastrear
     type: skill
-    img: systems/CoC7/assets/icons/skills/track.svg
+    img: systems/CoC7/assets/game-icons/delapouite/deer-track.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1473,7 +1473,7 @@ items:
           priority: 0
   - name: 'Soco'
     type: 'weapon'
-    img: 'systems/CoC7/assets/icons/skills/fighting_brawl.svg'
+    img: 'systems/CoC7/assets/game-icons/lorc/mailed-fist.svg'
     system:
       skill:
         main:
@@ -1531,7 +1531,7 @@ items:
 ---
 name: 'Exemplo de Criatura'
 type: 'creature'
-img: systems/CoC7/assets/icons/floating-tentacles.svg
+img: systems/CoC7/assets/game-icons/delapouite/floating-tentacles.svg
 system:
   characteristics:
     str:
@@ -1586,7 +1586,7 @@ system:
       expanded: true
 prototypeToken:
   texture:
-    src: 'systems/CoC7/assets/icons/floating-tentacles.svg'
+    src: 'systems/CoC7/assets/game-icons/delapouite/floating-tentacles.svg'
 _id: 'XE2vjLG03wGfnYLw'
 items:
   - _id: '0oDo0HjUAx36Grvo'
@@ -1602,7 +1602,7 @@ items:
   - _id: vS8bsPWFlwgOecoB
     name: Lutar (Briga)
     type: skill
-    img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+    img: systems/CoC7/assets/game-icons/lorc/mailed-fist.svg
     system:
       description:
         value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1623,7 +1623,7 @@ items:
           priority: 0
   - name: Lutar (Fatiar PJs em cubinhos)
     type: skill
-    img: systems/CoC7/assets/icons/skills.svg
+    img: systems/CoC7/assets/game-icons/delapouite/skills.svg
     system:
       base: 0
       adjustments:

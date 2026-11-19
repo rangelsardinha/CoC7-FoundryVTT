@@ -1,7 +1,7 @@
 _id: UOuN0gESXPp2HXwH
 name: Contabilidade
 type: skill
-img: systems/CoC7/assets/icons/skills/accounting.svg
+img: systems/CoC7/assets/game-icons/delapouite/money-stack.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -29,7 +29,7 @@ flags:
 _id: dQ4zUjSteT3sgwKx
 name: Lidar com Animais
 type: skill
-img: systems/CoC7/assets/icons/skills/animal_handling.svg
+img: systems/CoC7/assets/game-icons/delapouite/jumping-dog.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -53,7 +53,7 @@ flags:
 _id: ovIp66Luwfwbq28F
 name: Antropologia
 type: skill
-img: systems/CoC7/assets/icons/skills/anthropology.svg
+img: systems/CoC7/assets/game-icons/delapouite/human-pyramid.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -79,7 +79,7 @@ flags:
 _id: wOs3gryeGRPkGoWD
 name: Avaliação
 type: skill
-img: systems/CoC7/assets/icons/skills/appraise.svg
+img: systems/CoC7/assets/game-icons/delapouite/glass-ball.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -96,7 +96,7 @@ flags:
 _id: GHhkcJUqjcP4lToY
 name: Arqueologia
 type: skill
-img: systems/CoC7/assets/icons/skills/archaeology.svg
+img: systems/CoC7/assets/game-icons/delapouite/great-pyramid.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -121,7 +121,7 @@ flags:
 _id: m6V53lyfz7zh95FE
 name: Arte/Ofício (Atuação)
 type: skill
-img: systems/CoC7/assets/icons/skills/art_craft_acting.svg
+img: systems/CoC7/assets/game-icons/delapouite/theater-curtains.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -147,7 +147,7 @@ flags:
 _id: HAuFBG4ZT2yO9yn7
 name: Arte/Ofício (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/art_craft_any.svg
+img: systems/CoC7/assets/game-icons/lorc/shining-heart.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -166,7 +166,7 @@ flags:
 _id: m8sBJxvuUdtQ2mDU
 name: Arte/Ofício (Belas Artes)
 type: skill
-img: systems/CoC7/assets/icons/skills/art_craft_fine_art.svg
+img: systems/CoC7/assets/game-icons/delapouite/paint-brush.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -192,7 +192,7 @@ flags:
 _id: zcvnv8qY4GrVwwTL
 name: Arte/Ofício (Falsificação)
 type: skill
-img: systems/CoC7/assets/icons/skills/art_craft_forgery.svg
+img: systems/CoC7/assets/game-icons/delapouite/paper-tray.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -218,7 +218,7 @@ flags:
 _id: WLYZNASZ2YP8zN3g
 name: Arte/Ofício (Fotografia)
 type: skill
-img: systems/CoC7/assets/icons/skills/art_craft_photography.svg
+img: systems/CoC7/assets/game-icons/delapouite/photo-camera.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -242,7 +242,7 @@ flags:
 _id: JgtxiN3KzooOWIQV
 name: Charme
 type: skill
-img: systems/CoC7/assets/icons/skills/charm.svg
+img: systems/CoC7/assets/game-icons/lorc/charm.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -259,7 +259,7 @@ flags:
 _id: I80gmmo830LuOBKl
 name: Civismo
 type: skill
-img: systems/CoC7/assets/icons/skills/shaking-hands.svg
+img: systems/CoC7/assets/game-icons/delapouite/shaking-hands.svg
 system:
   description:
     value: <p>Veja Cthulhu Invictus</p>
@@ -278,7 +278,7 @@ flags:
 _id: oh5eFj00Wohnx1My
 name: Escalar
 type: skill
-img: systems/CoC7/assets/icons/skills/climb.svg
+img: systems/CoC7/assets/game-icons/delapouite/mountain-road.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -308,7 +308,7 @@ flags:
 _id: VZSv9eodMQ4ZPcrO
 name: Computadores
 type: skill
-img: systems/CoC7/assets/icons/skills/computer_use.svg
+img: systems/CoC7/assets/game-icons/lord-berandas/computing.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -328,7 +328,7 @@ flags:
 _id: vYrJ5h9cIQBzvw8E
 name: Nível de Crédito
 type: skill
-img: systems/CoC7/assets/icons/skills/credit_rating.svg
+img: systems/CoC7/assets/game-icons/delapouite/credits-currency.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -355,7 +355,7 @@ flags:
 _id: WJky66ezt2ef5ksH
 name: Mitos de Cthulhu
 type: skill
-img: systems/CoC7/assets/icons/skills/cthulhu_mythos.svg
+img: systems/CoC7/assets/game-icons/delapouite/fish-monster.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -372,7 +372,7 @@ flags:
 _id: bJt90h73GqdP7ti6
 name: Demolições
 type: skill
-img: systems/CoC7/assets/icons/skills/demolitions.svg
+img: systems/CoC7/assets/game-icons/lorc/demolish.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -397,7 +397,7 @@ flags:
 _id: gzNPM9gbx0EZffBV
 name: Disfarce
 type: skill
-img: systems/CoC7/assets/icons/skills/disguise.svg
+img: systems/CoC7/assets/game-icons/lorc/domino-mask.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -427,7 +427,7 @@ flags:
 _id: 4lN6yD6zwbjX6BFp
 name: Mergulho
 type: skill
-img: systems/CoC7/assets/icons/skills/diving_helmet.svg
+img: systems/CoC7/assets/game-icons/delapouite/diving-helmet.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -450,7 +450,7 @@ flags:
 _id: wK8XxNj9QwXlGFEb
 name: Esquivar
 type: skill
-img: systems/CoC7/assets/icons/skills/dodge.svg
+img: systems/CoC7/assets/game-icons/lorc/dodging.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -478,7 +478,7 @@ flags:
 _id: Og2OWQH93aSDWAMZ
 name: Dirigir Automóveis
 type: skill
-img: systems/CoC7/assets/icons/skills/drive_auto.svg
+img: systems/CoC7/assets/game-icons/skoll/race-car.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -500,7 +500,7 @@ flags:
 _id: Sxviv60td6kbS4kp
 name: Conduzir Carruagem
 type: skill
-img: systems/CoC7/assets/icons/skills/cartwheel.svg
+img: systems/CoC7/assets/game-icons/lorc/cartwheel.svg
 system:
   description:
     value: <p>Veja Cthulhu by Gaslight</p>
@@ -521,7 +521,7 @@ flags:
 _id: rAK5soSX1n3jXj2A
 name: Conduzir Cavalo / Bois
 type: skill
-img: systems/CoC7/assets/icons/skills/cartwheel.svg
+img: systems/CoC7/assets/game-icons/lorc/cartwheel.svg
 system:
   description:
     value: <p>Veja Cthulhu Invictus</p>
@@ -542,7 +542,7 @@ flags:
 _id: sqenne0VZoF54W5k
 name: Conduzir Carroça / Carruagem
 type: skill
-img: systems/CoC7/assets/icons/skills/cartwheel.svg
+img: systems/CoC7/assets/game-icons/lorc/cartwheel.svg
 system:
   description:
     value: <p>Veja o livro Down Darker Trails</p>
@@ -562,7 +562,7 @@ flags:
 _id: NBkq8oCGM1FjmsyF
 name: Consertos Elétricos
 type: skill
-img: systems/CoC7/assets/icons/skills/electrical_repair.svg
+img: systems/CoC7/assets/game-icons/delapouite/electrical-resistance.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -584,7 +584,7 @@ flags:
 _id: oEfvPMTx0cgyPlgV
 name: Eletrônica
 type: skill
-img: systems/CoC7/assets/icons/skills/electronics.svg
+img: systems/CoC7/assets/game-icons/delapouite/musical-keyboard.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -604,7 +604,7 @@ flags:
 _id: t7uiYybrk8dHFdjp
 name: Império
 type: skill
-img: systems/CoC7/assets/icons/skills/laurel_crown.svg
+img: systems/CoC7/assets/game-icons/lorc/laurel-crown.svg
 system:
   description:
     value: <p>Veja Cthulhu Invictus</p>
@@ -623,7 +623,7 @@ flags:
 _id: ld78TITwKNFPpanQ
 name: Lábia
 type: skill
-img: systems/CoC7/assets/icons/skills/fast_talk.svg
+img: systems/CoC7/assets/game-icons/lorc/back-forth.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -640,7 +640,7 @@ flags:
 _id: 4y7D44TpkHVKxA7s
 name: Lutar (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+img: systems/CoC7/assets/game-icons/lorc/mailed-fist.svg
 system:
   description:
     value: <p>Use in occupations / archetypes to prompt to select one Fighting skill</p>
@@ -659,7 +659,7 @@ flags:
 _id: T8fSLCwSD8C0iK8t
 name: Lutar (Machado)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_axe.svg
+img: systems/CoC7/assets/game-icons/delapouite/sharp-axe.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -677,7 +677,7 @@ flags:
 _id: vS8bsPWFlwgOecoB
 name: Lutar (Briga)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+img: systems/CoC7/assets/game-icons/lorc/mailed-fist.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -695,7 +695,7 @@ flags:
 _id: Ed8OShyl7D834Ihk
 name: Lutar (Motosserra)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_chainsaw.svg
+img: systems/CoC7/assets/game-icons/delapouite/chainsaw.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -718,7 +718,7 @@ flags:
 _id: OcnZzOYWaP4VsjXS
 name: Lutar (Mangual)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_flail.svg
+img: systems/CoC7/assets/game-icons/delapouite/flail.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -741,7 +741,7 @@ flags:
 _id: TPOu48DT4QIrqE68
 name: Lutar (Garrote)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_garrote.svg
+img: systems/CoC7/assets/game-icons/delapouite/skipping-rope.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -759,7 +759,7 @@ flags:
 _id: IttOdCAGTeE6VU3F
 name: Lutar (Lança)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_spear.svg
+img: systems/CoC7/assets/game-icons/delapouite/spear-feather.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -777,7 +777,7 @@ flags:
 _id: hRPbMl2N0t6aBlyc
 name: Lutar (Espada)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_sword.svg
+img: systems/CoC7/assets/game-icons/lorc/sword-clash.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -795,7 +795,7 @@ flags:
 _id: sWt5Q3ZXd6NlwhXU
 name: Arremessar
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_throw.svg
+img: systems/CoC7/assets/game-icons/delapouite/throwing-ball.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -823,7 +823,7 @@ flags:
 _id: Pb3QI7x9xJVeXi8a
 name: Lutar (Chicote)
 type: skill
-img: systems/CoC7/assets/icons/skills/fighting_whip.svg
+img: systems/CoC7/assets/game-icons/lorc/whip.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -841,7 +841,7 @@ flags:
 _id: YPiD2ubZensxjKGU
 name: Armas de Fogo (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
+img: systems/CoC7/assets/game-icons/john-colburn/pistol-gun.svg
 system:
   description:
     value: <p>Use em ocupações / arquétipos para solicitar a seleção de uma perícia de Armas de Fogo</p>
@@ -860,7 +860,7 @@ flags:
 _id: qET2wCGGdy3z18Gc
 name: Armas de Fogo (Artilharia)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_artillery.svg
+img: systems/CoC7/assets/game-icons/delapouite/missile-launcher.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -885,7 +885,7 @@ flags:
 _id: VwGWZ2LBOwtMaw08
 name: Armas de Fogo (Arco)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_bow.svg
+img: systems/CoC7/assets/game-icons/lorc/pocket-bow.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -903,7 +903,7 @@ flags:
 _id: 35dvJDsrY8JipXRU
 name: Armas de Fogo (Lança-chamas)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_flamethrower.svg
+img: systems/CoC7/assets/game-icons/delapouite/flamethrower.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -926,7 +926,7 @@ flags:
 _id: KmDGtn7ukUFVb265
 name: Armas de Fogo (Pistola)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
+img: systems/CoC7/assets/game-icons/john-colburn/pistol-gun.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -952,7 +952,7 @@ flags:
 _id: 23vdyJDDfjyneH3I
 name: Armas de Fogo (Armas Pesadas)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_heavy_weapons.svg
+img: systems/CoC7/assets/game-icons/lorc/missile-pod.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -975,7 +975,7 @@ flags:
 _id: QcomAOgmOS5g3dsh
 name: Armas de Fogo (Metralhadora)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_machine_gun.svg
+img: systems/CoC7/assets/game-icons/skoll/machine-gun.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -998,7 +998,7 @@ flags:
 _id: m2pYjKk4Gk3FcEBL
 name: Armas de Fogo (Rifles/Escopetas)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg
+img: systems/CoC7/assets/game-icons/skoll/winchester-rifle.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1024,7 +1024,7 @@ flags:
 _id: gRUXG91zIJXOLye1
 name: Armas de Fogo (Submetralhadora)
 type: skill
-img: systems/CoC7/assets/icons/skills/firearms_submachine_gun.svg
+img: systems/CoC7/assets/game-icons/delapouite/machine-gun-magazine.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1047,7 +1047,7 @@ flags:
 _id: nZ8rdL4PLb7A7f5B
 name: Primeiros Socorros
 type: skill
-img: systems/CoC7/assets/icons/skills/first_aid.svg
+img: systems/CoC7/assets/game-icons/delapouite/first-aid-kit.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1064,7 +1064,7 @@ flags:
 _id: SflwB1bbjaQebiPQ
 name: Jogos de Azar
 type: skill
-img: systems/CoC7/assets/icons/skills/poker-hand.svg
+img: systems/CoC7/assets/game-icons/lorc/poker-hand.svg
 system:
   description:
     value: <p>Veja o livro Down Darker Trails</p>
@@ -1084,7 +1084,7 @@ flags:
 _id: URo2NSSJSNdvOqXU
 name: História
 type: skill
-img: systems/CoC7/assets/icons/skills/history.svg
+img: systems/CoC7/assets/game-icons/delapouite/book-pile.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1112,7 +1112,7 @@ flags:
 _id: mEblnQjptKvKCeIg
 name: Hipnose
 type: skill
-img: systems/CoC7/assets/icons/skills/hypnosis.svg
+img: systems/CoC7/assets/game-icons/lorc/twirl-center.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1137,7 +1137,7 @@ flags:
 _id: hDr4eUbS398oniTa
 name: Intimidação
 type: skill
-img: systems/CoC7/assets/icons/skills/intimidate.svg
+img: systems/CoC7/assets/game-icons/delapouite/tired-eye.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1154,7 +1154,7 @@ flags:
 _id: c5utlFbDM7J8TA8b
 name: Saltar
 type: skill
-img: systems/CoC7/assets/icons/skills/jump.svg
+img: systems/CoC7/assets/game-icons/delapouite/jump-across.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1182,7 +1182,7 @@ flags:
 _id: Yu3Xk8kZBlz0G82y
 name: Outra Língua (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1201,7 +1201,7 @@ flags:
 _id: rhJ1Q9OB3uTUZmjD
 name: Língua Nativa
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1222,7 +1222,7 @@ flags:
 _id: CWeSJuv7ROn1n4yH
 name: Outra Língua (Tcheco)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1240,7 +1240,7 @@ flags:
 _id: QUhj7EFX371aTfkU
 name: Outra Língua (Holandês)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1258,7 +1258,7 @@ flags:
 _id: TvoAFvsyxegxp6Oq
 name: Outra Língua (Inglês)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1276,7 +1276,7 @@ flags:
 _id: 95Ob2LDCxfcJraxB
 name: Outra Língua (Alemão)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1294,7 +1294,7 @@ flags:
 _id: Xf5ojFt4EebLlxUi
 name: Outra Língua (Polonês)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1312,7 +1312,7 @@ flags:
 _id: QAtNuUcR75jEb4aZ
 name: Outra Língua (Russo)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1330,7 +1330,7 @@ flags:
 _id: 753u4GsC5uHZCNwM
 name: Outra Língua (Suaíli)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1348,7 +1348,7 @@ flags:
 _id: fUOXVGsE5l4QX4Tv
 name: Outra Língua (Iorubá)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1366,7 +1366,7 @@ flags:
 _id: zdetbvN3oO9cAdV1
 name: Outra Língua (Zulu)
 type: skill
-img: systems/CoC7/assets/icons/skills/language.svg
+img: systems/CoC7/assets/game-icons/skoll/talk.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1384,7 +1384,7 @@ flags:
 _id: 64hnBZNC8FM7oTkg
 name: Direito
 type: skill
-img: systems/CoC7/assets/icons/skills/law.svg
+img: systems/CoC7/assets/game-icons/delapouite/3d-hammer.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1412,7 +1412,7 @@ flags:
 _id: BcWHh8EhmyKj7bNk
 name: Usar Bibliotecas
 type: skill
-img: systems/CoC7/assets/icons/skills/library_use.svg
+img: systems/CoC7/assets/game-icons/delapouite/archive-research.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1440,7 +1440,7 @@ flags:
 _id: MoAB0NRNlpEc2qWr
 name: Escutar
 type: skill
-img: systems/CoC7/assets/icons/skills/listen.svg
+img: systems/CoC7/assets/game-icons/delapouite/sound-on.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1468,7 +1468,7 @@ flags:
 _id: MRbFH52Zh9TzhLBh
 name: Chaveiro
 type: skill
-img: systems/CoC7/assets/icons/skills/locksmith.svg
+img: systems/CoC7/assets/game-icons/delapouite/house-keys.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1496,7 +1496,7 @@ flags:
 _id: rCJKGay6D0ucqgeg
 name: Conhecimento (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/classical_knowledge.svg
+img: systems/CoC7/assets/game-icons/delapouite/classical-knowledge.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1519,7 +1519,7 @@ flags:
 _id: 0qCTuRFUCACSEsWj
 name: Consertos Mecânicos
 type: skill
-img: systems/CoC7/assets/icons/skills/mechanical_repair.svg
+img: systems/CoC7/assets/game-icons/lorc/mechanical-arm.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1546,7 +1546,7 @@ flags:
 _id: Xmg7oAy70DKpv4kq
 name: Medicina
 type: skill
-img: systems/CoC7/assets/icons/skills/medicine.svg
+img: systems/CoC7/assets/game-icons/delapouite/plague-doctor-profile.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1563,7 +1563,7 @@ flags:
 _id: jTcu6Ni2ek7Yz5q3
 name: História Natural
 type: skill
-img: systems/CoC7/assets/icons/skills/natural_world.svg
+img: systems/CoC7/assets/game-icons/delapouite/forest.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1588,7 +1588,7 @@ flags:
 _id: 1c3fdvpQtvZf5YXK
 name: Navegação
 type: skill
-img: systems/CoC7/assets/icons/skills/navigate.svg
+img: systems/CoC7/assets/game-icons/delapouite/earth-america.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1605,7 +1605,7 @@ flags:
 _id: 6pSfZVS68jSHxa5T
 name: Ocultismo
 type: skill
-img: systems/CoC7/assets/icons/skills/occult.svg
+img: systems/CoC7/assets/game-icons/lorc/evil-book.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1622,7 +1622,7 @@ flags:
 _id: cuExWy1130KUwuWz
 name: Operar Maquinário Pesado
 type: skill
-img: systems/CoC7/assets/icons/skills/operate_heavy_machinery.svg
+img: systems/CoC7/assets/game-icons/delapouite/melting-metal.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1647,7 +1647,7 @@ flags:
 _id: uMzSNURmZqjxr7mU
 name: Persuasão
 type: skill
-img: systems/CoC7/assets/icons/skills/persuade.svg
+img: systems/CoC7/assets/game-icons/lorc/conversation.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1675,7 +1675,7 @@ flags:
 _id: uQsVn8K6XRXQmtaI
 name: Pilotar (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/pilot_any.svg
+img: systems/CoC7/assets/game-icons/delapouite/ship-wheel.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1702,7 +1702,7 @@ flags:
 _id: rXBU2GofiO2qOsGv
 name: Psicanálise
 type: skill
-img: systems/CoC7/assets/icons/skills/psychoanalysis.svg
+img: systems/CoC7/assets/game-icons/lorc/psychic-waves.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1724,7 +1724,7 @@ flags:
 _id: MFR4eR79niGaLfph
 name: Psicologia
 type: skill
-img: systems/CoC7/assets/icons/skills/psychology.svg
+img: systems/CoC7/assets/game-icons/delapouite/all-seeing-eye.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1752,7 +1752,7 @@ flags:
 _id: SL2OorS0Xx6ty02A
 name: Ler Lábios
 type: skill
-img: systems/CoC7/assets/icons/skills/read_lips.svg
+img: systems/CoC7/assets/game-icons/lorc/lips.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1775,7 +1775,7 @@ flags:
 _id: o7TdzbuSP7ticONf
 name: Cavalgar
 type: skill
-img: systems/CoC7/assets/icons/skills/ride.svg
+img: systems/CoC7/assets/game-icons/delapouite/horse-head.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1800,7 +1800,7 @@ flags:
 _id: EMA6uEtQBgJtBcPl
 name: Uso de Cordas
 type: skill
-img: systems/CoC7/assets/icons/skills/lasso.svg
+img: systems/CoC7/assets/game-icons/delapouite/lasso.svg
 system:
   description:
     value: <p>Veja o livro Down Darker Trails</p>
@@ -1820,7 +1820,7 @@ flags:
 _id: KvZuYcg3AmVrwKi2
 name: Ciência (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_any.svg
+img: systems/CoC7/assets/game-icons/lorc/materials-science.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1839,7 +1839,7 @@ flags:
 _id: hhvqA2BOljk1FHVg
 name: Ciência (Astronomia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_astronomy.svg
+img: systems/CoC7/assets/game-icons/lorc/ringed-planet.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1862,7 +1862,7 @@ flags:
 _id: IBSDR6U4dE1uejVp
 name: Ciência (Biologia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_biology.svg
+img: systems/CoC7/assets/game-icons/lorc/dna2.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1885,7 +1885,7 @@ flags:
 _id: ShPoibiLsd07AtZv
 name: Ciência (Botânica)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_botany.svg
+img: systems/CoC7/assets/game-icons/delapouite/plant-seed.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1908,7 +1908,7 @@ flags:
 _id: 8twBT7nbyh5dEp3J
 name: Ciência (Química)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_chemistry.svg
+img: systems/CoC7/assets/game-icons/lorc/chemical-drop.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1931,7 +1931,7 @@ flags:
 _id: UASTWOvgCYi8G1QQ
 name: Ciência (Criptografia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_cryptography.svg
+img: systems/CoC7/assets/game-icons/delapouite/flower-emblem.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1954,7 +1954,7 @@ flags:
 _id: 9zy7PLmTLXknFce4
 name: Ciência (Engenharia)
 type: skill
-img: systems/CoC7/assets/icons/skills/spanner.svg
+img: systems/CoC7/assets/game-icons/lorc/spanner.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -1977,7 +1977,7 @@ flags:
 _id: Nw5tSvi2Knxlqmg1
 name: Ciência (Forense)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_forensics.svg
+img: systems/CoC7/assets/game-icons/lorc/bloody-stash.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2000,7 +2000,7 @@ flags:
 _id: QwaL3UC3Gvjd3hmF
 name: Ciência (Geologia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_geology.svg
+img: systems/CoC7/assets/game-icons/lorc/earth-spit.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2023,7 +2023,7 @@ flags:
 _id: TwYYqLHe1PXnOCDF
 name: Ciência (Matemática)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_mathematics.svg
+img: systems/CoC7/assets/game-icons/delapouite/calculator.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2046,7 +2046,7 @@ flags:
 _id: w7hWVU14syjweIH2
 name: Ciência (Meteorologia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_meteorology.svg
+img: systems/CoC7/assets/game-icons/delapouite/cloud-download.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2069,7 +2069,7 @@ flags:
 _id: V9ulAwDyLVqqQ0su
 name: Ciência (Farmácia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_pharmacy.svg
+img: systems/CoC7/assets/game-icons/lorc/pill.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2092,7 +2092,7 @@ flags:
 _id: Dh6sHWep0qKQmi3I
 name: Ciência (Física)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_physics.svg
+img: systems/CoC7/assets/game-icons/lorc/vibrating-ball.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2115,7 +2115,7 @@ flags:
 _id: 0rlp7EuZDzQGjIYf
 name: Ciência (Zoologia)
 type: skill
-img: systems/CoC7/assets/icons/skills/science_zoology.svg
+img: systems/CoC7/assets/game-icons/lorc/animal-skull.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2138,7 +2138,7 @@ flags:
 _id: KKFNX5M4LtEtiuxs
 name: Prestidigitação
 type: skill
-img: systems/CoC7/assets/icons/skills/sleight_of_hand.svg
+img: systems/CoC7/assets/game-icons/lorc/hand.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2166,7 +2166,7 @@ flags:
 _id: nHaWNwtW3Lg0sqYJ
 name: Encontrar
 type: skill
-img: systems/CoC7/assets/icons/skills/spot_hidden.svg
+img: systems/CoC7/assets/game-icons/lorc/magnifying-glass.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2183,7 +2183,7 @@ flags:
 _id: DcV524K0jNfjDEZC
 name: Furtividade
 type: skill
-img: systems/CoC7/assets/icons/skills/stealth.svg
+img: systems/CoC7/assets/game-icons/lorc/hidden.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2213,7 +2213,7 @@ flags:
 _id: X99v5MtRlfTNjL3B
 name: Sobrevivência (Qualquer)
 type: skill
-img: systems/CoC7/assets/icons/skills/survival_any.svg
+img: systems/CoC7/assets/game-icons/lorc/campfire.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2243,7 +2243,7 @@ flags:
 _id: 1zSIeY0eat2AxQok
 name: Natação
 type: skill
-img: systems/CoC7/assets/icons/skills/swim.svg
+img: systems/CoC7/assets/game-icons/delapouite/swimfins.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2271,7 +2271,7 @@ flags:
 _id: AcUIbZFhfoXqQP2m
 name: Rastrear
 type: skill
-img: systems/CoC7/assets/icons/skills/track.svg
+img: systems/CoC7/assets/game-icons/delapouite/deer-track.svg
 system:
   description:
     value: <p>Veja o Livro Básico de Chamado de Cthulhu - 7ª Ed.</p>
@@ -2288,7 +2288,7 @@ flags:
 _id: HzOGu2yLcL9obry3
 name: Armadilha
 type: skill
-img: systems/CoC7/assets/icons/skills/wolf-trap.svg
+img: systems/CoC7/assets/game-icons/lorc/wolf-trap.svg
 system:
   description:
     value: <p>Veja o livro Down Darker Trails</p>
